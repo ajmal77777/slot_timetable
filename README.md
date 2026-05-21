@@ -121,7 +121,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-<img width="1500" height="898" alt="image" src="https://github.com/user-attachments/assets/72855429-745d-4192-890f-8445f6e9a3ae" />
+
 
 
 
